@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className='Navbar'>
       <div className='logo'>
         <Link to='/'>
-          <img src='https://icons8.com/icon/WBjVk3Xn9Kju/krishna' />
+          <img src='./' />
           <h1>Krsna</h1>
         </Link>
 
