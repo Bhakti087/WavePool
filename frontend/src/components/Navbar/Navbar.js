@@ -23,7 +23,7 @@ const Navbar = () => {
         </NavLink>
 
         <NavLink to='/Activities'>
-          <h3>Activities</h3>
+          <h3>login</h3>
         </NavLink>
       </div>
     </div>
